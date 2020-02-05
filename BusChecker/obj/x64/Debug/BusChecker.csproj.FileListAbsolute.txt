@@ -1,0 +1,15 @@
+C:\Users\maxim\source\repos\BusCheckForm\BusCheckForm\bin\x64\Debug\BusChecker.exe.config
+C:\Users\maxim\source\repos\BusCheckForm\BusCheckForm\bin\x64\Debug\BusChecker.exe
+C:\Users\maxim\source\repos\BusCheckForm\BusCheckForm\bin\x64\Debug\BusChecker.pdb
+C:\Users\maxim\source\repos\BusCheckForm\BusCheckForm\bin\x64\Debug\FluentScheduler.dll
+C:\Users\maxim\source\repos\BusCheckForm\BusCheckForm\bin\x64\Debug\NvAPIWrapper.dll
+C:\Users\maxim\source\repos\BusCheckForm\BusCheckForm\bin\x64\Debug\FluentScheduler.pdb
+C:\Users\maxim\source\repos\BusCheckForm\BusCheckForm\bin\x64\Debug\FluentScheduler.xml
+C:\Users\maxim\source\repos\BusCheckForm\BusCheckForm\bin\x64\Debug\NvAPIWrapper.xml
+C:\Users\maxim\source\repos\BusCheckForm\BusCheckForm\obj\x64\Debug\BusChecker.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\BusCheckForm\BusCheckForm\obj\x64\Debug\BusChecker.Form1.resources
+C:\Users\maxim\source\repos\BusCheckForm\BusCheckForm\obj\x64\Debug\BusChecker.Properties.Resources.resources
+C:\Users\maxim\source\repos\BusCheckForm\BusCheckForm\obj\x64\Debug\BusChecker.csproj.GenerateResource.cache
+C:\Users\maxim\source\repos\BusCheckForm\BusCheckForm\obj\x64\Debug\BusChecker.csproj.CopyComplete
+C:\Users\maxim\source\repos\BusCheckForm\BusCheckForm\obj\x64\Debug\BusChecker.exe
+C:\Users\maxim\source\repos\BusCheckForm\BusCheckForm\obj\x64\Debug\BusChecker.pdb
